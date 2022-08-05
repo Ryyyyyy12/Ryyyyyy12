@@ -19,11 +19,11 @@
 
 📈 <b>My GitHub Stats:<b>
 
-<p align="center">
+<p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ryyyyyy12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=solarized-light" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryyyyyy12&layout=compact&theme=solarized-light&hide_border=true"/>
 <p>
-<p align="center">
+<p>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryyyyyy12&theme=solarized-light&hide_border=true"/>
 </p>
 
