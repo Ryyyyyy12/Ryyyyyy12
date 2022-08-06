@@ -5,17 +5,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! My name is <b>Kevalin Srisakulpong</b> (Cherry) <br> I'm currently a second-year student in Computer-science program <br> at King Mongkut's University of Technology Thonburi (KMUTT).
 </details>
 
-<details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
-</details>
 
 📈 <b>My GitHub Stats:<b>
 
