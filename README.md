@@ -1,9 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi there, I'm <a href="https://ryyyyyy.netlify.app/"> Cherry </a>![visitors](https://visitor-badge.glitch.me/badge?page_id=${Ryyyyyy12}.${91175693})
 
-<details>
-    <summary><b>✨About Me:</b></summary><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hello! My name is <b>Kevalin Srisakulpong</b> (Cherry) <br> I'm currently a second-year student in Computer-science program <br> at King Mongkut's University of Technology Thonburi (KMUTT).
-</details>
+
 
 
 📈 <b>My GitHub Stats:<b>
